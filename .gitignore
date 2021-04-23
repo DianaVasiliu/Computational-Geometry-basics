@@ -1,0 +1,6 @@
+# PyCharm files
+.idea
+__pycache__
+venv
+
+# Other files
