@@ -1,0 +1,8 @@
+Polygon 1:
+is not x-monotone
+is y-monotone
+
+Polygon 2:
+is not x-monotone
+is not y-monotone
+

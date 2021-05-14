@@ -1,0 +1,8 @@
+AC edge is illegal
+BD edge is legal
+
+AC edge is legal
+BD edge is legal
+
+AC edge is legal
+BD edge is illegal

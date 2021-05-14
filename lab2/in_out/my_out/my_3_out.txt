@@ -1,0 +1,3 @@
+(4, 2) - inside
+(5, 1) - on the circle
+(7, 1) - outside
