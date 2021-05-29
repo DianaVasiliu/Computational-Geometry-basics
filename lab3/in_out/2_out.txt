@@ -1,0 +1,13 @@
+example 1:
+(a) there is NOT a rectangle with the required property
+
+example 2:
+(a) there is NOT a rectangle with the required property
+
+example 3:
+(a) there is a rectangle with the required property
+(b) minimum area is 1
+
+example 4:
+(a) there is a rectangle with the required property
+(b) minimum area is 6

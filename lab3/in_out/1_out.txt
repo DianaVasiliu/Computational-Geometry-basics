@@ -1,0 +1,4 @@
+empty intersection
+non-empty, infinite intersection
+non-empty, finite intersection
+non-empty, infinite intersection
